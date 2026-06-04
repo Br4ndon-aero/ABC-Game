@@ -1,4 +1,4 @@
-# Terminal Runner
+# ABC Game
 
 A 3‑lane dodging game made in Python.  
 Cars come at you, coins give you points, and you switch lanes to survive.
